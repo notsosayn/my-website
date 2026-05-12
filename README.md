@@ -1,7 +1,7 @@
-# My Portfolio
+# Learning Stuff
 It includes:
-- my passport size image
-- a short introduction 
+- my name and what i love
+- an image of a drum set 
 
 ## Preview
 
